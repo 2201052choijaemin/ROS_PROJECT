@@ -29,7 +29,7 @@ ESP32-CAM 보드는 Wi-Fi 통신, 카메라 영상 송출, 웹 서버 기능을 
 
 ### 시스템 구성
 
-![시스템 구성도](images/system_diagram.png)
+![시스템 구성도](https://github.com/2201052choijaemin/ROS_PROJECT/blob/assets/system_diagram.png?raw=true)
 
 #### 부품별 제어 방식
 
