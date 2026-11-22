@@ -39,7 +39,7 @@ PC에서 RC카까지 명령을 전달하는 과정에는 **ROS 2**를 사용한�
 
 ### 시스템 구성
 
-![시스템 구성도](https://github.com/2201052choijaemin/ROS_PROJECT/blob/assets/system_diagram_v3.png?raw=true)
+![시스템 구성도](https://github.com/2201052choijaemin/ROS_PROJECT/blob/assets/system_diagram_v4.png?raw=true)
 
 **동작 흐름 (키보드로 전진 명령을 보내는 경우)**
 
