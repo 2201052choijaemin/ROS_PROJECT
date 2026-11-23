@@ -101,7 +101,6 @@ ESP32 카메라 RC카는 Wi-Fi와 카메라가 내장되어 있어 PC의 ROS 2�
 | ROS 2 | 노드 간 메시지 통신 및 시스템 구성 |
 | Ubuntu (WSL2) | ROS 2 실행 환경 |
 | C++ / Python | ROS 2 Publisher/Subscriber 노드 구현 |
-| Arduino IDE (C/C++) | ESP32-CAM 펌웨어 작성 및 업로드 |
 | HTML / JavaScript | 웹 제어판 화면 구성 |
 
 ### 4.3 핵심 구현 기술
