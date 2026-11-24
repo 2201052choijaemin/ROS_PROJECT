@@ -141,7 +141,7 @@ Publisher 노드가 키보드 입력을 이동 명령 메시지(`geometry_msgs/m
 
 ## 5. 블럭도
 
-![블럭도](https://github.com/2201052choijaemin/ROS_PROJECT/blob/assets/block_diagram.png?raw=true)
+![블럭도](image/block_diagram.png)
 
 본 작품의 기능을 10개의 블럭으로 나누어 표현하였다. 각 블럭은 하나의 기능을 의미하며, 화살표는 데이터가 흐르는 방향, 화살표 위의 글자는 주고받는 데이터를 의미한다.
 
